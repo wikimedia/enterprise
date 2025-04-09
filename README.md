@@ -7,7 +7,7 @@ This repo is informational only to point to Wikimedia Enterprise official assets
 
 **API Documentation:** https://enterprise.wikimedia.com/docs/
 
-**Updates & News:** https://enterprise.wikimedia.com/news/
+**Updates & News:** https://enterprise.wikimedia.com/blog/
 
 **Meta wiki page:** https://meta.wikimedia.org/wiki/Wikimedia_Enterprise
 That includes FAQ, operating principles, the team, and a community essay.
@@ -17,4 +17,4 @@ That includes updates, and development workboard.
 
 **Development Tickets:** https://phabricator.wikimedia.org/tag/wikimedia_enterprise/
 
-**Codebase:** coming soon; currently at [@wikimedia/OKAPI](https://github.com/wikimedia/OKAPI)
+**Codebase:** https://github.com/wikimedia-enterprise
